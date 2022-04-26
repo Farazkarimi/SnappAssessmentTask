@@ -1,0 +1,15 @@
+//
+//  Config-Shared.xcconfig
+//  SnappAssessmentTask
+//
+//  Created by Faraz Karimi on 2/5/1401 AP.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+BUILD_NUMBER=1
+APP_VERSION=1.0.0
+PRODUCT_NAME=Snapp Task
+APP_BUNDLE_ID=com.snapp.SnappAssessmentTask
+ACCESS_TOKEN=AAAAAAAAAAAAAAAAAAAAAAydUgEAAAAAZPVstu8OXsmm%2FvUZ0q6RhaicmJo%3Dcc1LyqDbZgNwiWA64ZSDpagnlFMpnVPTyyGrpPMGkNoYWMG7V5
